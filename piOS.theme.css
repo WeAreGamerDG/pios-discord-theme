@@ -14,7 +14,7 @@
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
-    --pios-glow-hue:        180;
+    --pios-glow-hue:        150;
     --pios-glow-intensity:  1;
     --pios-spacing:         1;
     --pios-accent-hue:      0;
